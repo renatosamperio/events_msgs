@@ -2,7 +2,7 @@ string 		city
 string 		country
 string 		start_date
 string 		end_date
-string 		status
+string 		query_status
 int64 		total_found
 int64 		events_page
-Concert     events
+Concert[]   events
