@@ -5,4 +5,4 @@ string 	name
 string 	street
 string 	website
 string 	zip
-int64 	id
+string 	id
