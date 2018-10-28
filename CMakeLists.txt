@@ -20,6 +20,7 @@ add_message_files(
   Venue.msg
   Concert.msg
   WeeklyEvents.msg
+  WeeklySearch.msg
 )
 
 generate_messages(
