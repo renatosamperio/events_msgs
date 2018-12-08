@@ -18,9 +18,12 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   Venue.msg
+  Artist.msg
+  ArtistMusixMatch.msg
   Concert.msg
   WeeklyEvents.msg
   WeeklySearch.msg
+  
 )
 
 generate_messages(
