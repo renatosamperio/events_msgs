@@ -1,0 +1,10 @@
+string 	 id
+string 	 mbid
+string[] artist_alias
+string[] music_genre
+string 	 country
+string 	 name
+string 	 query_score
+string 	 rating
+string 	 twitter_url
+string 	 updated_time
