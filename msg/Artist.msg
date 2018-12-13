@@ -1,3 +1,3 @@
-string           name
-string           id
-ArtistMusixMatch mm_data
+string             name
+string             id
+ArtistMusixMatch[] musix_match
