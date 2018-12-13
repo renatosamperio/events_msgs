@@ -4,7 +4,7 @@ string[] artist_alias
 string[] music_genre
 string 	 country
 string 	 name
-string 	 query_score
-string 	 rating
+float64  query_score
+float64  rating
 string 	 twitter_url
 string 	 updated_time
