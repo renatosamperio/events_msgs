@@ -5,4 +5,5 @@ string 		end_date
 string 		query_status
 int64 		total_found
 int64 		events_page
+string 		db_record
 Concert[]   events
