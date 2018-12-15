@@ -3,6 +3,8 @@ string ZURICH=sk:104761
 string start_date
 string end_date
 string location
-string api_key
+string sk_api_key
+string mm_api_key
 string database
-string collection
+string el_collection
+string bs_collection
