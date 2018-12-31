@@ -19,7 +19,7 @@ add_message_files(
   FILES
   Venue.msg
   Artist.msg
-  ArtistMusixMatch.msg
+  MusixMatch.msg
   Concert.msg
   WeeklyEvents.msg
   WeeklySearch.msg
