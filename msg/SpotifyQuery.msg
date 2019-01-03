@@ -1,0 +1,9 @@
+string          name
+string          uri
+string          id
+int32           popularity
+int64           followers
+float64         similarity_score
+string[]        genres
+SpotifyImage    image
+SpotifyTracks[] top_tracks
