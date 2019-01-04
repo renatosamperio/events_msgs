@@ -1,3 +1,4 @@
 string             name
 string             id
-ArtistMusixMatch[] musix_match
+MusixMatch[]       musix_match
+SpotifyQuery       spotify
