@@ -23,7 +23,9 @@ add_message_files(
   Concert.msg
   WeeklyEvents.msg
   WeeklySearch.msg
-  
+  SpotifyQuery.msg
+  SpotifyImage.msg
+  SpotifyTracks.msg
 )
 
 generate_messages(
