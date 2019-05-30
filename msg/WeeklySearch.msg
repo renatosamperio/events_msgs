@@ -8,3 +8,5 @@ string mm_api_key
 string database
 string el_collection
 string bs_collection
+string city
+string country
