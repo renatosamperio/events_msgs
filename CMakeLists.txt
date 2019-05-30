@@ -21,6 +21,7 @@ add_message_files(
   Artist.msg
   MusixMatch.msg
   Concert.msg
+  Performance.msg
   WeeklyEvents.msg
   WeeklySearch.msg
   SpotifyQuery.msg
