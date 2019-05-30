@@ -1,7 +1,9 @@
-float64 popularity
-string 	name
-string 	start_time
-string 	status
-bool    hasEnded
-Artist  artist
-Venue   venue
+float64       popularity
+string 	      name
+string 	      start_time
+string 	      status
+string 	      event_type
+string 	      event_uri
+bool          hasEnded
+Performance[] performance
+Venue         venue
