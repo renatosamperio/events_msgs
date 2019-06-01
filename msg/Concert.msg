@@ -4,6 +4,7 @@ string 	      start_time
 string 	      status
 string 	      event_type
 string 	      event_uri
+string 	      event_id
 bool          hasEnded
 Performance[] performance
 Venue         venue
